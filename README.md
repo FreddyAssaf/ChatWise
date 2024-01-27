@@ -67,6 +67,21 @@ ChatWise is a collaborative chat application project that seamlessly integrates 
 
 - JavaFX
 
+### Usage
+
+1. **Client Interaction:**
+   - Launch the client application.
+   - Enter your messages in the provided text field.
+   - Press "Send" or hit Enter to send your message to the server.
+
+2. **Server Interaction:**
+   - Launch the server application.
+   - Observe server activities displayed in the JavaFX-based user interface.
+   - Messages from clients are logged to the console.
+
+3. **Screenshots:**
+   - View application screenshots in the [Screenshots-ChatWise](Screenshots-ChatWise/) folder.
+
 ## Screenshots
 
 For a visual preview of ChatWise, please refer to the [Screenshots-ChatWise](Screenshots-ChatWise/) folder.
